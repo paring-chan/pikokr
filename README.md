@@ -1,6 +1,6 @@
 #### Github Status
 
-[![parangee's github stats](https://github-readme-stats.vercel.app/api?username=parangee)](https://github.com/parnagee)
+[![parangee's github stats](https://github-readme-stats.vercel.app/api?username=parangee)](https://github.com/parangee)
 
 #### Top Langs
 
