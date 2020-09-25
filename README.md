@@ -1,7 +1,7 @@
 #### Github Status
 
-[![parangee's github stats](https://github-readme-stats.vercel.app/api?username=parangee)](https://github.com/parangee)
+[![pikokr's github stats](https://github-readme-stats.vercel.app/api?username=pikokr)](https://github.com/parangee)
 
 #### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parangee)](https://github.com/parangee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikokr)](https://github.com/parangee)
