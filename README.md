@@ -1,3 +1,15 @@
+### 좋아하는것
+
+- 프로그래밍
+- (TS)소설
+- 귀여운거
+
+### 싫어하는것
+
+- 싸우는거
+- 도배
+
+
 #### Github Status
 
 [![pikokr's github stats](https://github-readme-stats.vercel.app/api?username=pikokr)](https://github.com/pikokr)
