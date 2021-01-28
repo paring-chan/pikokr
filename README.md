@@ -16,7 +16,7 @@
 
 #### Top languages
 
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=pikokr&theme=synthwave)](https://github.com/pikokr)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=pikokr&theme=synthwave&layout=compact)](https://github.com/pikokr)
 
 #### Wakatime
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pikokr&theme=synthwave)](https://github.com/pikokr)
