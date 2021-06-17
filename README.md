@@ -15,3 +15,5 @@
 #### Top languages
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=pikokr&layout=compact&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff&show_icons=true&count_private=true)](https://github.com/pikokr)
+
+[![pikokr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pikokr)](https://github.com/pikokr)
