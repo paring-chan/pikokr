@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.github_token }}
+          token: ${{ secrets.TOKEN }}
 
           # Options
           user: pikokr
