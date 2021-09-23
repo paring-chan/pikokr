@@ -1680,22 +1680,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 48.169133192389005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 47.94612794612795%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">60%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Kotlin</span>
-                            <div class="bar" style="width: 30.95137420718816%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 31.178451178451176%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">39%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 0.7374207188160676%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.734006734006734%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 0.14207188160676532%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.14141414141414144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3377,7 +3377,7 @@
                                         </defs>
                                         <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                             <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.337400352771436 155"/>
+                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.346085633958015 155"/>
                                         </svg>
                                         <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                             <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3719,7 +3719,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 23/09/2021, 19:05 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
+                    <span>Last updated 23/09/2021, 20:04 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
