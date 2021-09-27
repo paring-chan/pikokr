@@ -1680,17 +1680,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 43.57177615571776%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">54%</span>
+                            <div class="bar" style="width: 42.092394498648176%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">53%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Kotlin</span>
-                            <div class="bar" style="width: 35.367396593673966%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">44%</span>
+                            <div class="bar" style="width: 36.88256729751969%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">46%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 1.0608272506082725%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.0250382038321382%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
@@ -2727,7 +2727,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pikokr/ep-image-generator</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3325,7 +3325,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="17.28387197805683 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="17.29282019303336 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3667,7 +3667,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28/09/2021, 06:04 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 28/09/2021, 07:05 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
