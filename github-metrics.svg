@@ -1347,7 +1347,7 @@
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/></svg>
-            Followed by 64 users
+            Followed by 63 users
           </div>
                     </section>
                     <section>
@@ -1749,52 +1749,52 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 25.892571940934182%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 25.90015128593041%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">32%</span>
                         </div>
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 22.942643391521198%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 22.939429596010534%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">29%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TSX</span>
-                            <div class="bar" style="width: 16.686373952758554%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 16.6840365327506%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">21%</span>
                         </div>
                         <div class="entry">
                             <span class="name">F#</span>
-                            <div class="bar" style="width: 3.750175123987783%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.749649801087017%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">SCSS</span>
-                            <div class="bar" style="width: 2.6293816021743392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.62901327954278%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 2.4612625739023226%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.460917801311145%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 2.015186752220572%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.0149044657365383%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 1.9008658129956006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.9005995405390261%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 1.01543893076298%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.0152966885190788%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Batchfile</span>
-                            <div class="bar" style="width: 0.7060999187424697%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.7060010085728694%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
@@ -3401,7 +3401,7 @@
                                             </defs>
                                             <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                                 <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                                <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="49.07035175879397 155"/>
+                                                <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.29145728643216 155"/>
                                             </svg>
                                             <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                                 <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3439,12 +3439,12 @@
                   <span class="prefix"></span> Influencer
                   
                     <span class="gh">
-                      ranked 99.4k out of 80m users
+                      ranked 101k out of 80m users
                     </span>
                   
                   
                 </div>
-                                        <div class="text">Followed by 64 users</div>
+                                        <div class="text">Followed by 63 users</div>
                                     </div>
                                 </div>
                                 <div class="achievement c largeable-width-half">
@@ -3794,7 +3794,7 @@
                     </section>
                     <footer>
                         <span>These metrics include private contributions</span>
-                        <span>Last updated 13 Nov 2021, 04:05:33 (timezone Asia/Seoul) with lowlighter/metrics@3.15.0</span>
+                        <span>Last updated 13 Nov 2021, 05:06:39 (timezone Asia/Seoul) with lowlighter/metrics@3.15.0</span>
                     </footer>
                 </div>
                 <div id="metrics-end"></div>
