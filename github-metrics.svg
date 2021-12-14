@@ -1770,22 +1770,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 47.93145898989622%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 47.92427659620248%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">60%</span>
                         </div>
                         <div class="entry">
                             <span class="name">C++</span>
-                            <div class="bar" style="width: 26.83495536757581%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 26.840965594674792%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">34%</span>
                         </div>
                         <div class="entry">
                             <span class="name">C</span>
-                            <div class="bar" style="width: 5.228579223164077%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 5.229750268470685%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">7%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Batchfile</span>
-                            <div class="bar" style="width: 0.005006419363891396%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.005007540652036563%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3249,7 +3249,7 @@
                   <span class="prefix">Master</span> developer
                   
                     <span class="gh">
-                      ranked 34.4k out of 81m users
+                      ranked 34.4k out of 82m users
                     </span>
                   
                   
@@ -3453,7 +3453,7 @@
                   <span class="prefix"></span> Influencer
                   
                     <span class="gh">
-                      ranked 101k out of 81m users
+                      ranked 101k out of 82m users
                     </span>
                   
                   
@@ -3605,7 +3605,7 @@
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 1.62m out of 269m repositories
+                      ranked 1.62m out of 270m repositories
                     </span>
                   
                   
@@ -3689,7 +3689,7 @@
                   <span class="prefix"></span> Maintainer
                   
                     <span class="gh">
-                      ranked 1.70m out of 269m repositories
+                      ranked 1.70m out of 270m repositories
                     </span>
                   
                   
@@ -3808,7 +3808,7 @@
                     </section>
                     <footer>
                         <span>These metrics include private contributions</span>
-                        <span>Last updated 14 Dec 2021, 15:08:08 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
+                        <span>Last updated 14 Dec 2021, 16:07:13 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
                     </footer>
                 </div>
                 <div id="metrics-end"></div>
