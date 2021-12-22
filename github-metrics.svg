@@ -1800,12 +1800,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 79.9913826329759%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.99138340160417%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">100%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Batchfile</span>
-                            <div class="bar" style="width: 0.008617367024096649%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.008616598395831721%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3832,7 +3832,7 @@
                             </section>
                             <footer>
                                 <span>These metrics include private contributions</span>
-                                <span>Last updated 22 Dec 2021, 21:10:25 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
+                                <span>Last updated 22 Dec 2021, 22:16:43 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
                             </footer>
                         </div>
                         <div id="metrics-end"></div>
