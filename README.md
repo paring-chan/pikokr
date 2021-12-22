@@ -1,3 +1,3 @@
-Discord: 파랑이#7777
+Discord: 파링#7777
 
 ![metrics](github-metrics.svg)
