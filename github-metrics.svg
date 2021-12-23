@@ -1800,12 +1800,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 79.99137768436935%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.99137878777674%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">100%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Batchfile</span>
-                            <div class="bar" style="width: 0.008622315630641555%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.008621212223262455%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -2911,7 +2911,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ppy/osu</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3854,7 +3854,7 @@
                             </section>
                             <footer>
                                 <span>These metrics include private contributions</span>
-                                <span>Last updated 24 Dec 2021, 03:07:44 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
+                                <span>Last updated 24 Dec 2021, 04:04:57 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
                             </footer>
                         </div>
                         <div id="metrics-end"></div>
