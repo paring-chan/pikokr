@@ -445,17 +445,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 68.39403882750032%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">85%</span>
+                            <div class="bar" style="width: 68.54451839758885%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">86%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Kotlin</span>
-                            <div class="bar" style="width: 11.382926237146906%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 11.23194775838252%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">14%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 0.22303493535276014%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.22353384402863244%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -1608,7 +1608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pikokr/osu</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">rhythm is just a *click* away!</div>
@@ -1661,7 +1661,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ppy/osu</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">rhythm is just a *click* away!</div>
@@ -2507,7 +2507,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 9 Jan 2022, 07:09:07 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 9 Jan 2022, 08:06:48 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
