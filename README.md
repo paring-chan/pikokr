@@ -1,3 +1,1 @@
-```ts
-process.kill(process.pid)
-```
+Donate: https://toss.me/pikokr
