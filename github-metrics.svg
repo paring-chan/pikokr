@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2853" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2799" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6386 Commits
+                            6387 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -374,8 +374,8 @@
                         10
                     </div>
                     <div class="entry">
-                        <span class="value">6</span>
-                        <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <span class="value">5</span>
+                        <div class="bar" style="height: 9.25925925925926px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         11
                     </div>
                     <div class="entry">
@@ -384,8 +384,8 @@
                         12
                     </div>
                     <div class="entry">
-                        <span class="value">4</span>
-                        <div class="bar" style="height: 7.4074074074074066px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <span class="value">5</span>
+                        <div class="bar" style="height: 9.25925925925926px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         13
                     </div>
                     <div class="entry">
@@ -445,8 +445,8 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">17</span>
-                            <div class="bar" style="height: 19.318181818181817px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">18</span>
+                            <div class="bar" style="height: 20.454545454545457px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
@@ -455,8 +455,8 @@
                             Mon
                         </div>
                         <div class="entry">
-                            <span class="value">14</span>
-                            <div class="bar" style="height: 15.909090909090908px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">13</span>
+                            <div class="bar" style="height: 14.772727272727273px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
@@ -1748,6 +1748,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">pikokr/website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f8d2a31</div>
+                                        <div class="message">readme</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">pikokr/status-page</span>
                                     </div>
                                 </div>
@@ -1820,40 +1840,6 @@
                                     <div class="commit">
                                         <div class="sha">#a0f2291</div>
                                         <div class="message"><svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#DD2E44" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/></svg> UniqueBots FrontEnd is down (0 in 0 ms) [skip ci] [upptime]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">KimuSoft/epbot2-enhanced</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7db29b1</div>
-                                        <div class="message">delete &amp; edit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a12199</div>
-                                        <div class="message">Revert "renderer"
-
-This reverts commit b189e30ac6ad9344288a2bc025b7546ce7f518c6.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b189e30</div>
-                                        <div class="message">renderer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#235edf6</div>
-                                        <div class="message">무언가</div>
                                     </div>
                                 </div>
                             </section>
@@ -2024,7 +2010,7 @@ This reverts commit b189e30ac6ad9344288a2bc025b7546ce7f518c6.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="151.38333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="151.9 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2046,7 +2032,7 @@ This reverts commit b189e30ac6ad9344288a2bc025b7546ce7f518c6.</div>
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 493 times</div>
+                                <div class="text">Repositories have been deployed 494 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2581,7 +2567,7 @@ This reverts commit b189e30ac6ad9344288a2bc025b7546ce7f518c6.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2022, 13:20:12 (timezone Asia/Seoul) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 6 Feb 2022, 14:13:42 (timezone Asia/Seoul) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
