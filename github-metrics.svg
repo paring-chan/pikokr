@@ -1546,7 +1546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KimuSoft/twitch-obs-utils</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">키뮤를 위해 만들었지만 안쓰는 트위치 x OBS 연동 유틸리티</div>
@@ -2559,7 +2559,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2022, 18:16:23 (timezone Asia/Seoul) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 7 Feb 2022, 19:17:14 (timezone Asia/Seoul) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
