@@ -1,3 +1,3 @@
-[![pikokr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pikokr)](https://wakatime.com/@pikokr)
-[![Snake](https://raw.githubusercontent.com/pikokr/pikokr/output/github-contribution-grid-snake.svg)](https://github.com/pikokr)
-[![Metrics](github-metrics.svg)](https://github.com/pikokr)
+### 바부 파리링
+
+안녕하세요! 바부 (유사) 개발소녀 파리링이에요!
