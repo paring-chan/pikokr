@@ -3,6 +3,7 @@
 안녕하세요! 바부 (유사) 개발소녀 파리링이에요!
 
 [[Blog]](https://pikokr.dev)
+[[Service Stats]](https://status.pikokr.dev/)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pikokr)
 [![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)](https://git.pikokr.dev/pikokr)
