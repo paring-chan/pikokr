@@ -4,6 +4,7 @@
 
 [[Blog]](https://pikokr.dev)
 [[Service Stats]](https://status.pikokr.dev/)
+[[Server Metrics]](https://grafana.pikokr.dev/public-dashboards/08014760f8b448e2b0ad592de1fb0385)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pikokr)
 [![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)](https://git.pikokr.dev/pikokr)
