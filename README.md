@@ -1,1 +1,1 @@
-히히난멍청이
+![metrics](./github-metrics.svg)
