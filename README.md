@@ -30,4 +30,6 @@
 </h3>
 <p align="center">
   <a href="https://toss.me/pikokr">Toss</a>
+  <span>|</span>
+  <a href="https://github.com/sponsors/pikokr">GitHub Sponsors</a>
 </p>
