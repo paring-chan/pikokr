@@ -33,3 +33,16 @@
   <span>|</span>
   <a href="https://github.com/sponsors/pikokr">GitHub Sponsors</a>
 </p>
+
+<h3 align="center">
+  <del>소속 팀</del>
+</h3>
+<p align="center">
+  <a href="https://github.com/7thbeatgames">7th Beat Games(internship)</a>
+</p>
+<p align="center">
+  <a href="https://github.com/adofai-gg">ADOFAI.gg</a>
+</p>
+<p align="center">
+  <a href="https://github.com/team-crescendo">팀 크레센도</a>
+</p>
