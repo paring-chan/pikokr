@@ -35,7 +35,7 @@
 </p>
 
 <h3 align="center">
-  <del>소속 팀</del>
+  소속 팀
 </h3>
 <p align="center">
   <a href="https://github.com/7thbeatgames">7th Beat Games(internship)</a>
