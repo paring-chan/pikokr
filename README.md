@@ -41,8 +41,8 @@
   <a href="https://github.com/7thbeatgames">7th Beat Games(internship)</a>
 </p>
 <p align="center">
-  <a href="https://github.com/adofai-gg">ADOFAI.gg</a>
+  <a href="https://github.com/adofai-gg">ADOFAI.gg(2021~)</a>
 </p>
 <p align="center">
-  <a href="https://github.com/team-crescendo">팀 크레센도</a>
+  <a href="https://github.com/team-crescendo">Team Crescendo(2022~)</a>
 </p>
