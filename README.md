@@ -20,7 +20,7 @@
   소속 팀
 </h3>
 <p align="center">
-  <a href="https://github.com/7thbeatgames">7th Beat Games(internship)</a>
+  <a href="https://github.com/7thbeatgames">7th Beat Games(2023~)</a>
 </p>
 <p align="center">
   <a href="https://github.com/adofai-gg">ADOFAI.gg(2021~)</a>
